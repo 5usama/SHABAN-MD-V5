@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SHABAN-MD~ngoRRD4J#m-mQ34PN_jqv8l-mTOCrahqVFnuBRv_Nb-DPDSCrkic"
     },  
     
     "STICKER_NAME": {
